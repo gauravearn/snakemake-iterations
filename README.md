@@ -1,5 +1,5 @@
 # snakemake_iterations
-write as many snakemake files and with much faster iterations and completely from the single files or from the list of the files with the path appended. This will make your writing the snakemake easier. The cmplete code inside, a look at how to write faster snakemake files for the clusters.
+write as many snakemake files and with much faster iterations and completely from the single files or from the list of the files with the path appended. This will make your writing the snakemake easier. The complete code inside, a look at how to write faster snakemake files for the clusters.
 
 ```
 #!/usr/bin/env bash
