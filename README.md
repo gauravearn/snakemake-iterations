@@ -38,10 +38,10 @@ for i in "${snakeinput[*]}"; do
 done
 ```
 
-Gaurav Sablok,
-Academic Staff Member,
-Bioinformatics,
-Institute for Biochemistry and Biology,
-University of Potsdam,
-Potsdam,Germany
+Gaurav Sablok,\
+Academic Staff Member,\
+Bioinformatics,\
+Institute for Biochemistry and Biology,\
+University of Potsdam,\
+Potsdam,Germany\
 
